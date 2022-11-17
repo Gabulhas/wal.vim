@@ -186,6 +186,7 @@ hi ALEErrorSign ctermbg=NONE ctermfg=1
 hi ALEWarningSign ctermbg=NONE ctermfg=3
 hi ALEError ctermbg=NONE ctermfg=1
 hi ALEWarning ctermbg=NONE ctermfg=3
+hi WinSeparator ctermbg=NONE ctermfg=7
 
 " }}}
 
